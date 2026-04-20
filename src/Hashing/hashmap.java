@@ -8,7 +8,7 @@ public class hashmap {
         map.put("us",222);
         map.put("China",150);
         System.out.println(map);
-        // value updated
+        // value upd
         map.put("china",333);
         System.out.println(map);
         // search in hashmap
@@ -30,3 +30,4 @@ public class hashmap {
 
     }
 }
+//
