@@ -55,3 +55,5 @@ public class queue {
         }
     }
 }
+// time complexity add -O(1)
+// peek and remove O(n)
